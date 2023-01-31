@@ -79,7 +79,8 @@ Read more posts on my [![Developer Blog](https://img.shields.io/badge/Hashnode-2
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradscottwhite&theme=dark&show_icons=true&count_private=true)](https://github.com/bradscottwhite" alt='GitHub Stats' />
 </p>
 
-  [![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=bradscottwhite&layout=compact&hide=html&theme=github_dark&langs_count=8)](https://github.com/bradscottwhite)
+  <img src='https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=bradscottwhite&layout=compact&hide=html&theme=github_dark&langs_count=8' alt='Most Used Languages' />
+  <!--[![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=bradscottwhite&layout=compact&hide=html&theme=github_dark&langs_count=8)](https://github.com/bradscottwhite)-->
 
 
 <!---
