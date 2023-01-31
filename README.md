@@ -67,15 +67,12 @@ Read more posts on my [![Developer Blog](https://img.shields.io/badge/Hashnode-2
 
 </p>
 
-<!-- ## 📌 Pinned Projects
+## 📌 Pinned Projects
 
-[![mrcaidev/hooks](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=hooks&theme=github_dark)](https://github.com/mrcaidev/hooks)
-[![mrcaidev/tailwindcss-radix-colors](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=tailwindcss-radix-colors&theme=github_dark)](https://github.com/mrcaidev/tailwindcss-radix-colors)
-[![mrcaidev/cue](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=cue&theme=github_dark)](https://github.com/mrcaidev/cue)
-[![mrcaidev/paste](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=paste&theme=github_dark)](https://github.com/mrcaidev/paste)
-[![mrcaidev/mrcai.dev](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=mrcai.dev&theme=github_dark)](https://github.com/mrcaidev/mrcai.dev)
-[![mrcaidev/design-patterns](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=design-patterns&theme=github_dark)](https://github.com/mrcaidev/design-patterns)
--->
+[![bradscottwhite/firebirdie-v1](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=bradscottwhite&repo=firebirdie-v1&theme=github_dark)](https://github.com/bradscottwhite/firebirdie-v1)
+[![bradscottwhite/bradwhite.io](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=bradscottwhite&repo=bradwhite.io&theme=github_dark)](https://github.com/bradscottwhite/bradwhite.io)
+[![bradscottwhite/min-planner](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=bradscottwhite&repo=min-planner&theme=github_dark)](https://github.com/bradscottwhite/min-planner)
+
 ## 📈 GitHub Statistics
 
 [![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=bradscottwhite&theme=github_dark&show_icons=true&count_private=true)](https://github.com/bradscottwhite)
