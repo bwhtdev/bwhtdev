@@ -33,8 +33,8 @@
 [![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)-->
 [![Tailwind CSS](https://shields.io/badge/tailwind%20css-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
 [![Framer Motion](https://shields.io/badge/framer%20motion-1a1a1a?style=for-the-badge&logo=framer&logoColor=ffffff)](https://www.framer.com/motion/)
-<!--[![DaisyUI]()](https://daisyui.com/)
-[![Jest](https://shields.io/badge/jest-18df16?style=for-the-badge&logo=jest&logoColor=ffffff)](https://jestjs.io/)
+[![DaisyUI](https://img.shields.io/badge/DAISYUI-purple?style=for-the-badge)](https://daisyui.com/)
+<!--[![Jest](https://shields.io/badge/jest-18df16?style=for-the-badge&logo=jest&logoColor=ffffff)](https://jestjs.io/)
 [![Vite](https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)-->
 
 ### Backend
