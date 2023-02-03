@@ -63,6 +63,8 @@
 
 👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 3)](https://blog.bradwhite.io/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-3)
 
+👉 [Get Started with Storybook.js and Angular (w/ Tailwind CSS)](https://blog.bradwhite.io/get-started-with-storybookjs-and-angular-w-tailwind-css)
+
 Read more posts on my <br/> [![Developer Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.bradwhite.io/)
 
 </p>
