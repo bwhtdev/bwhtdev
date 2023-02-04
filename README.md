@@ -80,6 +80,7 @@ Read more posts on my <br/> [![Developer Blog](https://img.shields.io/badge/Hash
 <p align="center">
   <img src="https://github-readme-stats-eight-beige.vercel.app/api?username=bradscottwhite&theme=github_dark&show_icons=true&count_private=true" alt='GitHub Stats' />
 
+ <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bradscottwhite&theme=github_dark" alt='GitHub Stats' />-->
   <img src='https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=bradscottwhite&layout=compact&hide=html&theme=github_dark&langs_count=8' alt='Most Used Languages' />
 </p>
 
