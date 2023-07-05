@@ -1,5 +1,4 @@
-![bg-grad](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/d6284290-232b-4fb3-a212-5ba2d1631284)
-<!--![banner-img-2](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/fa4138de-0c65-45cf-9989-1fa85bf5f901)-->
+![banner-img-2](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/32389c0f-d067-46ca-aa0d-cb01d2a7b3b5)
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <h3 align="center">Software engineer / TS / React / Tailwind / Node / AWS / GraphQL</h3>
 
