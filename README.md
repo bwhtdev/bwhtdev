@@ -1,12 +1,12 @@
-![LinkedIn bg2-2](https://user-images.githubusercontent.com/97484878/209731653-9d2d2ab4-3b56-45b5-9018-50aa1d70e5d0.png)
+![banner-img](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/8061ddd7-d605-4f4e-8dde-7c2737cf87b6)
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
-<h3 align="center">Software engineer / React / AWS / Tailwind</h3>
+<h3 align="center">Software engineer / TS / React / Tailwind / Node / AWS / GraphQL</h3>
 
-- 👀 I'm a **software engineer** who builds creative and functional apps for the wild web.
+- 👀 I'm a **software engineer** who builds functional and eloquent apps for the wild web.
 
-- 🌱 I’m currently focusing on learning and building projects with React, AWS and Tailwind.
+- 🌱 I’m currently focusing on learning and building projects with TypeScript, React, Tailwind, Node, AWS, and GraphQL.
 
-- 👨‍💻 All of my projects are available <a href='https://bradscottwhite.github.io/'>**here**</a>
+- 👨‍💻 All of my projects are available <a href='https://bradwhite.io/'>**here**</a>
 
 - 📫 You can reach me at **bradscottwhite@gmail.com**
 
