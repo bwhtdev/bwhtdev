@@ -1,4 +1,4 @@
-![banner-img-2](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/32389c0f-d067-46ca-aa0d-cb01d2a7b3b5)
+![banner image](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/8dc683fd-997a-45de-ac17-dd165733026f)
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <h3 align="center">Software engineer / TS / React / Tailwind / Node / AWS / GraphQL</h3>
 
