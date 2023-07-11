@@ -2,7 +2,7 @@
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <h3 align="center">Software engineer / TS / React / Tailwind / Node / AWS / GraphQL</h3>
 
-- 👀 I'm a **software engineer** who builds functional and elequent apps for the wild web.
+- 👀 I'm a software engineer who builds **functional** and **elequent** apps for the wild web.
 
 - 🌱 I’m currently focusing on learning and building projects with TypeScript, React, Tailwind, Node, AWS, and GraphQL.
 
