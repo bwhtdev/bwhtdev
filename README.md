@@ -1,8 +1,8 @@
 ![banner image](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/8dc683fd-997a-45de-ac17-dd165733026f)
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">Full-stack dev</h3>
 
-- 👀 I'm a developer who builds **functional** and **elequent** apps for the wild web.
+- 👀 I focus on building **elequent** and **efficient** apps for the wild web.
 
 - 🌱 I’m currently focusing on learning and building projects with TypeScript, GO, HTMX and Tailwind.
 
