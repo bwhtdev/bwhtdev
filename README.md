@@ -4,7 +4,7 @@
 
 - 👀 I focus on building **elequent** and **efficient** apps for the wild web.
 
-- 🌱 I’m currently focusing on learning and building projects with TypeScript, GO, HTMX and Tailwind.
+- 🌱 I’m currently learning and building projects with TypeScript, GO, HTMX and Tailwind.
 
 - 👨‍💻 All of my projects are available <a href='https://bradwhite.io/'>**here**</a>
 
