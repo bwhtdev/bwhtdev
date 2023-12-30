@@ -1,10 +1,10 @@
 ![banner image](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/8dc683fd-997a-45de-ac17-dd165733026f)
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
-<h3 align="center">Software engineer / TS / React / Tailwind / Node / AWS / GraphQL</h3>
+<h3 align="center">Developer</h3>
 
-- 👀 I'm a software engineer who builds **functional** and **elequent** apps for the wild web.
+- 👀 I'm a developer who builds **functional** and **elequent** apps for the wild web.
 
-- 🌱 I’m currently focusing on learning and building projects with TypeScript, React, Tailwind, Node, AWS, and GraphQL.
+- 🌱 I’m currently focusing on learning and building projects with TypeScript, GO, HTMX and Tailwind.
 
 - 👨‍💻 All of my projects are available <a href='https://bradwhite.io/'>**here**</a>
 
