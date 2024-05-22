@@ -2,7 +2,7 @@
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <h3 align="center">Fullstack dev</h3>
 I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> apps to the wild web. I am open to a remote software engineering role at a promising tech startup.
-
+<br />
 🎡  [Website](https://www.bradswhite.com/)  |  🌈  [Posts](https://www.bradswhite.com/blog) | 🦄  [Projects](https://www.bradswhite.com/#projects)
 
 ## 🗃️ Languages and Tools:
@@ -21,10 +21,10 @@ I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> ap
 
 ### Backend
 
-<!--[![Python](https://shields.io/badge/python-1e415e?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)-->
+![GO](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://shields.io/badge/express-eeeeee?style=for-the-badge&logo=express&logoColor=000000)](https://expressjs.com/)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
