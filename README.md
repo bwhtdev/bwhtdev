@@ -1,7 +1,9 @@
 ![banner image](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/8dc683fd-997a-45de-ac17-dd165733026f)
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <h3 align="center">Fullstack dev</h3>
-I develop, design and deploy *eloquent* and *efficient* apps to the wild web. I am open to a remote software engineering role at a promising tech startup.
+I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> apps to the wild web. I am open to a remote software engineering role at a promising tech startup.
+
+🎡  [Website](https://www.bradswhite.com/)  |  🌈  [Posts](https://www.bradswhite.com/blog) | 🦄  [Projects](https://www.bradswhite.com/#projects)
 
 ## 🗃️ Languages and Tools:
 
@@ -11,15 +13,11 @@ I develop, design and deploy *eloquent* and *efficient* apps to the wild web. I 
 [![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![Astro](https://shields.io/badge/astro?style=for-the-badge&logo=astro&logoColor=ffffff)](https://astro.build/)
 [![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-<!--[![Preact](https://img.shields.io/badge/preact-673ab8?style=for-the-badge&logo=preact&logoColor=ffffff)](https://preactjs.com/)
-[![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)-->
+<!--[![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)-->
 [![Tailwind CSS](https://shields.io/badge/tailwind%20css-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
-[![Framer Motion](https://shields.io/badge/framer%20motion-1a1a1a?style=for-the-badge&logo=framer&logoColor=ffffff)](https://www.framer.com/motion/)
-[![DaisyUI](https://img.shields.io/badge/DAISYUI-purple?style=for-the-badge)](https://daisyui.com/)
-<!--[![Jest](https://shields.io/badge/jest-18df16?style=for-the-badge&logo=jest&logoColor=ffffff)](https://jestjs.io/)
-[![Vite](https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)-->
 
 ### Backend
 
