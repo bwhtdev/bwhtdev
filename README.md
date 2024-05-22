@@ -6,14 +6,14 @@ I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> ap
 🎡  [Website](https://www.bradswhite.com/)  |  🌈  [Posts](https://www.bradswhite.com/blog) | 🦄  [Projects](https://www.bradswhite.com/#projects)
 
 ## 🗃️ Languages and Tools:
-
+<!-- Badges: https://badges.pages.dev/ -->
 ### Frontend
 
 [![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![Astro](https://shields.io/badge/astro?style=for-the-badge&logo=astro&logoColor=ffffff)](https://astro.build/)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)](https://astro.build/)
 [![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 <!--[![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)-->
