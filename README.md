@@ -2,7 +2,7 @@
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <h3 align="center">Fullstack dev</h3>
 
-- 👀 Developing, designing and deploying eloquent and efficient apps to the wild web. Open to remote software engineering role at a promising tech startup.
+- 👀 I develop, design and deploy *eloquent* and *efficient* apps to the wild web. I am open to a remote software engineering role at a promising tech startup.
 
 - 🌱 I’m currently learning and building projects with Astro, GO, HTMX and Tailwind.
 
@@ -57,13 +57,13 @@
 
 ## 📜 Featured Posts
 
-👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 1)](https://www.bradswhite.com/blog/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-1)
+👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 1)](https://www.bradswhite.com/blog/your-first-lambda-part-1/)
 
-👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 2)](https://www.bradswhite.com/blog/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-2)
+👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 2)](https://www.bradswhite.com/blog/your-first-lambda-part-2/)
 
-👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 3)](https://www.bradswhite.com/blog/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-3)
+👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 3)](https://www.bradswhite.com/blog/your-first-lambda-part-3/)
 
-👉 [Get Started with Storybook.js and Angular (w/ Tailwind CSS)](https://www.bradswhite.com/blog/get-started-with-storybookjs-and-angular-w-tailwind-css)
+👉 [Get Started with Storybook.js and Angular (w/ Tailwind CSS)](https://www.bradswhite.com/blog/storybookjs-and-angular/)
 
 Read more posts on my <br/> [![Developer Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.bradswhite.com/blog/)
 
