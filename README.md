@@ -2,7 +2,7 @@
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <h3 align="center">Fullstack dev</h3>
 I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> apps to the wild web. I am open to a remote software engineering role at a promising tech startup.
-<br />
+
 🎡  [Website](https://www.bradswhite.com/)  |  🌈  [Posts](https://www.bradswhite.com/blog) | 🦄  [Projects](https://www.bradswhite.com/#projects)
 
 ## 🗃️ Languages and Tools:
