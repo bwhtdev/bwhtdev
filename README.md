@@ -1,14 +1,14 @@
 ![banner image](https://github.com/bradscottwhite/bradscottwhite/assets/97484878/8dc683fd-997a-45de-ac17-dd165733026f)
 <h1 align="center">Howdy, I'm Brad White! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
-<h3 align="center">Full-stack dev</h3>
+<h3 align="center">Fullstack dev</h3>
 
-- 👀 I focus on building **elequent** and **efficient** apps for the wild web.
+- 👀 Developing, designing and deploying eloquent and efficient apps to the wild web. Open to remote software engineering role at a promising tech startup.
 
-- 🌱 I’m currently learning and building projects with TypeScript, GO, HTMX and Tailwind.
+- 🌱 I’m currently learning and building projects with Astro, GO, HTMX and Tailwind.
 
-- 👨‍💻 All of my projects are available <a href='https://bradwhite.io/'>**here**</a>
+- 👨‍💻 All of my projects are available <a href='https://www.bradwhite.io/'>**here**</a>
 
-- 📫 You can reach me at **bradscottwhite@gmail.com**
+- 📫 You can reach me at **brad@bradswhite.com**
 
 <!-- - 🔭 I’m currently working on ... .
 
@@ -57,33 +57,17 @@
 
 ## 📜 Featured Posts
 
-👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 1)](https://blog.bradwhite.io/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-1)
+👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 1)](https://www.bradswhite.com/blog/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-1)
 
-👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 2)](https://blog.bradwhite.io/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-2)
+👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 2)](https://www.bradswhite.com/blog/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-2)
 
-👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 3)](https://blog.bradwhite.io/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-3)
+👉 [A Guide to Deploying Your First Lambda Rest API In Node (part 3)](https://www.bradswhite.com/blog/a-guide-to-deploying-your-first-lambda-rest-api-in-node-part-3)
 
-👉 [Get Started with Storybook.js and Angular (w/ Tailwind CSS)](https://blog.bradwhite.io/get-started-with-storybookjs-and-angular-w-tailwind-css)
+👉 [Get Started with Storybook.js and Angular (w/ Tailwind CSS)](https://www.bradswhite.com/blog/get-started-with-storybookjs-and-angular-w-tailwind-css)
 
-Read more posts on my <br/> [![Developer Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.bradwhite.io/)
+Read more posts on my <br/> [![Developer Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.bradswhite.com/blog/)
 
 </p>
-
-## 📌 Pinned Projects
-
-[![bradscottwhite/firebirdie-v1](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=bradscottwhite&repo=firebirdie-v1&theme=github_dark)](https://github.com/bradscottwhite/firebirdie-v1)
-[![bradscottwhite/bradwhite.io](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=bradscottwhite&repo=bradwhite.io&theme=github_dark)](https://github.com/bradscottwhite/bradwhite.io)
-[![bradscottwhite/min-planner](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=bradscottwhite&repo=min-planner&theme=github_dark)](https://github.com/bradscottwhite/min-planner)
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-beige.vercel.app/api?username=bradscottwhite&theme=github_dark&show_icons=true&count_private=true" alt='GitHub Stats' />
-
- <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bradscottwhite&theme=github_dark" alt='GitHub Stats' />-->
-  <img src='https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=bradscottwhite&layout=compact&hide=html&theme=github_dark&langs_count=8' alt='Most Used Languages' />
-</p>
-
 
 <!---
 bradscottwhite/bradscottwhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
