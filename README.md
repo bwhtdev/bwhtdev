@@ -18,13 +18,14 @@ I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> ap
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 <!--[![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)-->
 [![Tailwind CSS](https://shields.io/badge/tailwind%20css-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
+[![Alpine.js Badge](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff&style=for-the-badge)](https://alpinejs.dev/)
 
 ### Backend
 
-![GO](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+[![GO](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)](https://go.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://shields.io/badge/express-eeeeee?style=for-the-badge&logo=express&logoColor=000000)](https://expressjs.com/)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://www.postgresql.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
@@ -34,7 +35,6 @@ I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> ap
 [![Git](https://shields.io/badge/git-f54d27?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://tmuxcheatsheet.com/)
-<!--[![Vercel](https://shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://vercel.com/)-->
 
 
 ## 📜 Featured Posts
