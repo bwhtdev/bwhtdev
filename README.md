@@ -46,6 +46,6 @@ I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> ap
 
 👉 [Get Started with Storybook.js and Angular (w/ Tailwind CSS)](https://www.bwht.dev/blog/storybookjs-and-angular/)
 
-Read more posts on my <br/> [Developer Blog](https://www.bwht.dev/blog/)-->
+Read more posts on my <br/> [Developer Blog](https://www.bwht.dev/blog/) -->
 
 </p>
