@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack dev</h3>
 I develop, design and deploy <bold>eloquent</bold> and <bold>efficient</bold> apps to the wild web. I am open to a remote software engineering role at a promising tech startup.
 
-🎡  [Website](https://www.bwht.dev/)  |  🌈  [Posts](https://www.bwht.dev/blog) | 🦄  [Projects](https://www.bwht.dev/#projects)
+[Website](https://www.bwht.dev/)  |  [Posts](https://www.bwht.dev/blog)  |  [Projects](https://www.bwht.dev/#projects)
 
 ## 🗃️ Languages and Tools:
 <!-- Badges: https://badges.pages.dev/ -->
