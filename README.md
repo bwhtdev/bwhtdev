@@ -9,6 +9,8 @@ Lately, I've been learning Ruby, Nix, and Golang and experimenting with self-hos
 <code><img width="65" height="65" src="https://api.iconify.design/logos:go.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos-javascript.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
+<code><img width="30" height="30" src="https://api.iconify.design/devicon:html5.svg"></code>&nbsp;
+<code><img width="30" height="30" src="https://api.iconify.design/devicon:css3.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos-ruby.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos:postgresql.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/vscode-icons:file-type-sqlite.svg"></code>&nbsp;
