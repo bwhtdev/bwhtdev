@@ -26,7 +26,6 @@ Lately, I've been learning Ruby, Nix, and Golang and experimenting with self-hos
 <code><img width="35" height="35" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://api.iconify.design/logos:docker-icon.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/logos:nginx.svg"></code>&nbsp;
-<code><img width="30" height="30" src="https://api.iconify.design/logos-vim.svg"></code>&nbsp;
 <code><img width="100" height="100" src="https://api.iconify.design/logos:neovim.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/flat-color-icons:linux.svg"></code>&nbsp;
 <code><img width="30" height="30" src="https://api.iconify.design/vscode-icons:file-type-nix.svg"></code>&nbsp;
