@@ -2,7 +2,7 @@
 > *I'm a full-stack programmer from Richmond, VA.*
 
 ### Now
-Lately, I've been learning Ruby, Nix, and Golang and experimenting with self-hosting.
+Lately, I've been learning Golang, Nix, and Ruby and experimenting with self-hosting.
 
 ### Languages/Tools
 #### Programming Languages
@@ -34,7 +34,7 @@ Lately, I've been learning Ruby, Nix, and Golang and experimenting with self-hos
 
 
 ### Contact
-- <img width="20" height="20" src="https://api.iconify.design/lucide:link.svg">  [Portfolio site](https://bwht.dev)
-- <img width="20" height="20" src="https://api.iconify.design/ic:baseline-email.svg">  [Email](mailto:brad@bwht.dev)
+- <img width="20" height="20" src="https://api.iconify.design/lucide:link.svg">  [Portfolio site](https://dev.knightoffaith.systems)
+- <img width="20" height="20" src="https://api.iconify.design/ic:baseline-email.svg">  [Email](mailto:brad@knightoffaith.systems)
 - <img width="20" height="20" src="https://api.iconify.design/logos:linkedin-icon.svg">  [Linkedin](https://linkedin.com/in/bwht)
 
