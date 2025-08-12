@@ -36,5 +36,6 @@ Lately, I've been learning Golang, Nix, and Ruby and experimenting with self-hos
 ### Contact
 - <img width="20" height="20" src="https://api.iconify.design/lucide:link.svg">  [Portfolio site](https://dev.knightoffaith.systems)
 - <img width="20" height="20" src="https://api.iconify.design/ic:baseline-email.svg">  [Email](mailto:brad@knightoffaith.systems)
+- <img width="20" height="20" src="https://api.iconify.design/pepicons-print:cv.svg">  [CV](https://dev.knightoffaith.systems/cv.pdf)
 - <img width="20" height="20" src="https://api.iconify.design/logos:linkedin-icon.svg">  [Linkedin](https://linkedin.com/in/bwht)
 
